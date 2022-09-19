@@ -1,0 +1,8 @@
+# Configure the encoder/decoder for actual compression/decompression
+
+# Codec class
+codec: 'grasp_codec'
+
+# Native translation and scaling of the data
+translate: [0, 0, 0]
+scale: 1
